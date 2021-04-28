@@ -1,11 +1,15 @@
 Gerenciador de salas de reunioes
+
 Stack utilizada:
+
 Spring Web
 Spring Data JPA
 H2 Database
 Java 8
 Maven
-Endpoints criados na API
+
+Endpoints criados na API:
+
 Criar sala de reuniao POST - /api/v1/rooms
 
 Listar todas as salas GET - /api/v1/rooms
